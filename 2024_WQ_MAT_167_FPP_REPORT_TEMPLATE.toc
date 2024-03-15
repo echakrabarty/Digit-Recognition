@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}PROBLEM DESCRIPTION}{2}{section.1}%
+\contentsline {section}{\numberline {2}DATA SET}{2}{section.2}%
+\contentsline {section}{\numberline {3}THE CENTROID CLASSIFICATION ALGORITHM}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}DESCRIPTION OF THE ALGORITHM}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}DESCRIPTION OF THE RESULTS}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}THE SVD CLASSIFICATION ALGORITHM}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}DESCRIPTION OF THE ALGORITHM}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}DESCRIPTION OF THE RESULTS}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}ANALYSIS}{7}{section.5}%
+\contentsline {section}{\numberline {6}CONCLUSIONS}{8}{section.6}%
